@@ -21,7 +21,7 @@ Em desenvolvimento.
 Sugestões e ideias: nicolasroldan635@gmail.com
 
 ## Apoie o projeto
-PIX: [sua chave aqui]
+PIX: 26a8a35c-9cf5-4304-8030-889a1c254277
 
 ## Licença
 MIT
